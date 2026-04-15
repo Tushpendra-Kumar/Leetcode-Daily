@@ -23,8 +23,8 @@ Each solution includes:
 ```
 leetcode-daily/
    ├── 2026-04-14-minimum-total-distance-traveled.js
-   ├── 2026-04-15-next-problem.js
-   └── ...
+   ├── 2026-04-15-Shortest-Distance-to-Target-String-problem
+   └── 2026-04-16-next-problem.js...
 ```
 
 ## 🧠 Topics Covered
