@@ -1,3 +1,5 @@
+// JS code in this file is written by 2026-04-15-Shortest-Distance-to-Target-String-problem.js
+
 var closestTarget = function(words, target, startIndex) {
     let n = words.length;
     let ans = Infinity;
