@@ -1,63 +1,89 @@
-# 🚀 CodeByTushu LeetCode Daily
+# 🚀 CodeByTushu LeetCode Journey
 
-Welcome to my **LeetCode Daily Challenge Repository**! 💻🔥
-Here, I solve LeetCode problems daily using **JavaScript**, along with clear logic and clean code.
+Welcome to my **LeetCode Daily Challenge Repository** 💻🔥
+Here, I solve LeetCode problems daily using **Java, JavaScript & Python**, focusing on clean code, optimal solutions, and strong DSA concepts.
+
+---
 
 ## 📌 About This Repository
 
 This repository is dedicated to:
 
-* 📅 Solving LeetCode problems **daily**
-* 🧠 Improving **Data Structures & Algorithms (DSA)**
+* 📅 Solving **LeetCode problems daily**
+* 🧠 Strengthening **Data Structures & Algorithms (DSA)**
 * 💼 Preparing for **coding interviews**
-* ✨ Writing **clean and optimized code**
+* ✨ Writing **clean, optimized, and readable code**
 
 Each solution includes:
 
-* Problem name
-* Date of solving
-* Clean and readable code
+* 📌 Problem name
+* 📅 Date of solving
+* 💡 Optimized approach
+* 🧾 Clean code (Java / JavaScript / Python)
+
+---
 
 ## 📂 Folder Structure
 
 ```
-leetcode-daily/
-   ├── 2026-04-14-minimum-total-distance-traveled.js
-   ├── 2026-04-15-Shortest-Distance-to-Target-String-problem
-   └── 2026-04-16-next-problem.js...
+LEETCODE/
+│
+├── 2026/
+│   ├── 01-Jan-2026/
+│   ├── 02-Feb-2026/
+│   ├── 03-Mar-2026/
+│   ├── 04-Apr-2026/
+│   │   ├── 2026-04-21-Minimize-Hamming-Distance.java
+│   │   ├── 2026-04-22-Words-Within-Two-Edits.java
+│   │   └── ...
+│
+├── 2027/
+│   ├── 01-Jan-2027/
+│   └── ...
 ```
+
+---
 
 ## 🧠 Topics Covered
 
 * ✅ Arrays
 * ✅ Strings
 * ✅ Dynamic Programming (DP)
-* ✅ Graphs
+* ✅ Graphs & BFS/DFS
 * ✅ Greedy Algorithms
 * ✅ Recursion & Backtracking
 * ✅ Sliding Window
 * ✅ Binary Search
+* ✅ Union-Find (Disjoint Set)
+
+---
 
 ## 🛠️ Tech Stack
 
+* 💻 Java
 * 💻 JavaScript
+* 💻 Python
 * 🧑‍💻 VS Code
 * 🌐 LeetCode
 
-## 🎯 Goal
+---
 
-My goal is to:
+## 🎯 Goals
 
-* Solve problems consistently 📈
-* Build strong DSA concepts
-* Crack top tech interviews 🚀
+* 📈 Maintain daily consistency
+* 🧠 Master DSA concepts
+* 🚀 Crack top tech interviews
+* 📹 Build content around problem-solving
 
-## 📺 YouTube (CodeByTushu)
+---
 
-I also explain these problems on YouTube with step-by-step explanations.
+## 📺 YouTube – CodeByTushu
 
-👉 Subscribe here:
-https://www.youtube.com/@codebytushu
+I also upload **step-by-step explanations** of these problems on YouTube 🎥
+
+👉 https://www.youtube.com/@codebytushu
+
+---
 
 ## 🌐 Connect With Me
 
@@ -65,14 +91,18 @@ https://www.youtube.com/@codebytushu
 * 💼 LinkedIn: https://www.linkedin.com/company/codebytushu/
 * 🌍 Website: https://codebytushu.com
 
-## ❤️ Support
+---
 
-If you like this repository:
+## ⭐ Support
+
+If you find this repository helpful:
 
 * ⭐ Star this repo
 * 🍴 Fork it
 * 📤 Share with friends
 
-## 🔥 Stay Consistent, Keep Coding!
+---
 
-> “Consistency is the key to success in coding.” 💪
+## 🔥 Keep Coding, Stay Consistent!
+
+> “Small daily improvements lead to big success.” 🚀
