@@ -1,32 +1,32 @@
-class Solution {
-    public int[] separateDigits(int[] nums) {
+// class Solution {
+//     public int[] separateDigits(int[] nums) {
 
-        List<Integer> result = new ArrayList<>();
+//         List<Integer> result = new ArrayList<>();
 
-        for (int num : nums) {
+//         for (int num : nums) {
 
-            List<Integer> temp = new ArrayList<>();
+//             List<Integer> temp = new ArrayList<>();
 
-            while (num > 0) {
+//             while (num > 0) {
 
-                temp.add(num % 10);
+//                 temp.add(num % 10);
 
-                num /= 10;
-            }
+//                 num /= 10;
+//             }
 
-            for (int i = temp.size() - 1; i >= 0; i--) {
+//             for (int i = temp.size() - 1; i >= 0; i--) {
 
-                result.add(temp.get(i));
-            }
-        }
+//                 result.add(temp.get(i));
+//             }
+//         }
 
-        int[] ans = new int[result.size()];
+//         int[] ans = new int[result.size()];
 
-        for (int i = 0; i < result.size(); i++) {
+//         for (int i = 0; i < result.size(); i++) {
 
-            ans[i] = result.get(i);
-        }
+//             ans[i] = result.get(i);
+//         }
 
-        return ans;
-    }
-}
+//         return ans;
+//     }
+// }
